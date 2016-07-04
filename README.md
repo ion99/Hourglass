@@ -1,6 +1,6 @@
 # Hourglass
 
-The array: 
+The array 6 x 6 2D: 
 
 let arr = [[1, 1, 1, 0, 0, 0], [0, 1, 0, 2, 0, 0], [2, 1, 1, 0, 0, 0], [0, 9, 2, -4, 4, 0], [0, 7, 0, -2, 0, 0], [0, 0, -1, 5, 3, 0]];
 
@@ -20,3 +20,10 @@ a  b  c
      d
 
 e  f  g
+
+There are 16 hourglasses in array, and an hourglass sum is the sum of an hourglass' values a+b+c+d+e+f+g.
+
+Get the maximum hourglass sum.
+
+The result for arr is 20.
+
