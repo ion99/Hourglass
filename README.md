@@ -20,8 +20,8 @@ Array's graphical representation:
 
 An hourglass in this case is a subset of values with indices falling in this pattern in array's graphical representation:
 
-a  b  c
+a   b   c
 
-   d
+    d
 
-e  f  g
+e   f   g
