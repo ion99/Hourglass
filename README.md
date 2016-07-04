@@ -26,3 +26,11 @@ a   b   c
 
 e   f   g
 
+
+There are 16 hourglasses in array, and an hourglass sum is the sum of an hourglass' values a+b+c+d+e+f+g.
+
+Get the maximum hourglass sum.
+
+The result for arr is 20.
+
+
